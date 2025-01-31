@@ -1,0 +1,4 @@
+poll_interval_second: 10
+urls:
+ - https://www.example.com
+ - https://www.sis.gov.eg/
